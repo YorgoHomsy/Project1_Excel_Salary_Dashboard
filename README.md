@@ -24,7 +24,7 @@ Fully interactive with charts, tables, and filters.
 
 ##  Dashboard Highlights
 
-### 1️⃣ar Chart – Median Salary by Job Title
+### 1.Bar Chart – Median Salary by Job Title
 - Horizontal bars for **quick comparison**  
 - Sorted descending for clarity  
 - Shows that **Senior roles and Engineers earn more than Analysts**  
@@ -34,7 +34,7 @@ Fully interactive with charts, tables, and filters.
 
 ---
 
-### 2️⃣ap Chart – Country Median Salaries
+### 2.Map Chart – Country Median Salaries
 - Color-coded for **visual impact**  
 - Quickly shows **global salary differences**  
 
@@ -43,7 +43,7 @@ Fully interactive with charts, tables, and filters.
 
 ---
 
-### 3️⃣ulti-Criteria Tables & Data Validation
+### 3️.Multi-Criteria Tables & Data Validation
 - Median salary calculations by **job, country, and type**  
 - **FILTER formulas** to create unique, clean lists  
 - Data validation ensures **correct user input**  
